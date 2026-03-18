@@ -1,27 +1,37 @@
 # Gyanendra Aryal
 
-Full-stack MERN developer focused on building scalable web applications and clean user experiences.
+Full-stack MERN Developer building scalable web applications with clean architecture and production-ready code.
 
-## Tech Stack
+## 🚀 What I Build
 
-JavaScript | React | Node.js | Express | MongoDB | Tailwind CSS
+* Full-stack applications with secure authentication (JWT) and REST APIs
+* Admin dashboards with analytics, CRUD systems, and role-based access
+* Scalable backend systems with modular architecture and clean data flow
 
-## What I Do
+## 🛠 Tech Stack
 
-* Build full-stack applications with authentication and REST APIs
-* Design admin dashboards and data-driven interfaces
-* Structure scalable backend systems
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express
+Database: MongoDB
+Core: JavaScript (ES6+)
+Tools: Git, GitHub, Docker, Postman, VS Code
 
-## Featured Work
+## 💼 Featured Work
 
-* Full-stack marketplace platform (MERN)
-* Admin dashboard with CRUD + analytics
-* Portfolio with modern UI and animations
+* Full-stack MERN platform with booking & inquiry system
+* JWT authentication + protected admin dashboard
+* Structured backend with scalable MongoDB schemas
+* Condition-based product filtering system
+* Secure admin panel with full CRUD operations
+* Clean API architecture with version control workflow
 
-## Currently
+## 📈 Currently Focused On
 
-Improving system design, backend scalability, and UI performance.
+* System design & backend scalability
+* Performance optimization (frontend + API)
+* Writing clean, maintainable production code
 
-## Contact
+## 📬 Contact
 
 Email: [gyanendraaryal4@gmail.com](mailto:gyanendraaryal4@gmail.com)
+Location: Nepal
