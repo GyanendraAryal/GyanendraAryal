@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gyanendra Aryal
 
-<!--
-**GyanendraAryal/GyanendraAryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack MERN developer focused on building scalable web applications and clean user experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript | React | Node.js | Express | MongoDB | Tailwind CSS
+
+## What I Do
+
+* Build full-stack applications with authentication and REST APIs
+* Design admin dashboards and data-driven interfaces
+* Structure scalable backend systems
+
+## Featured Work
+
+* Full-stack marketplace platform (MERN)
+* Admin dashboard with CRUD + analytics
+* Portfolio with modern UI and animations
+
+## Currently
+
+Improving system design, backend scalability, and UI performance.
+
+## Contact
+
+Email: [gyanendraaryal4@gmail.com](mailto:gyanendraaryal4@gmail.com)
