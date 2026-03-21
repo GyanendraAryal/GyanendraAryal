@@ -1,28 +1,37 @@
-Gyanendra Aryal
-Full-stack MERN Developer crafting scalable web apps with clean architecture and production-ready code.
+# Gyanendra Aryal
 
-🚀 What I Build
-• Secure full-stack apps with JWT authentication and RESTful APIs
-• Admin dashboards featuring analytics, CRUD ops, and role-based access
-• Scalable backends with modular design and efficient data flows
+Full-stack MERN Developer building scalable web applications with clean architecture and production-ready code.
 
-🛠 Tech Stack
+## 🚀 What I Build
+
+* Full-stack applications with secure authentication (JWT) and REST APIs
+* Admin dashboards with analytics, CRUD systems, and role-based access
+* Scalable backend systems with modular architecture and clean data flow
+
+## 🛠 Tech Stack
+
 Frontend: React, Tailwind CSS
-Backend: Node.js, Express  
+Backend: Node.js, Express
 Database: MongoDB
 Core: JavaScript (ES6+)
 Tools: Git, GitHub, Docker, Postman, VS Code
 
-💼 Featured Projects
-• Full-stack MERN platform with booking/inquiry system + condition-based filtering
-• JWT-secured admin dashboard with complete CRUD operations
-• Versioned API architecture with scalable MongoDB schemas
+## 💼 Featured Work
 
-📈 Currently Building
-• Robust system design & backend scalability
-• Frontend/API performance optimizations
-• Clean, maintainable production code
+* Full-stack MERN platform with booking & inquiry system
+* JWT authentication + protected admin dashboard
+* Structured backend with scalable MongoDB schemas
+* Condition-based product filtering system
+* Secure admin panel with full CRUD operations
+* Clean API architecture with version control workflow
 
-📬 Contact
-Email: gyanendraaryal4@gmail.com
-Location: Butwal, Lumbini Province, 
+## 📈 Currently Focused On
+
+* System design & backend scalability
+* Performance optimization (frontend + API)
+* Writing clean, maintainable production code
+
+## 📬 Contact
+
+Email: [gyanendraaryal4@gmail.com](mailto:gyanendraaryal4@gmail.com)
+Location: Nepal
